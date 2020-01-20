@@ -1,0 +1,28 @@
+{
+  "name": "flux-icon",
+  "version": "1.0.0-beta",
+  "description": "Flux Icons",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doc88git/flux-icon.git"
+  },
+  "keywords": [
+    "flux",
+    "icons",
+    "icon",
+    "svg",
+    "vue",
+    "vuejs"
+  ],
+  "type": "module",
+  "author": "Gabriel Gelado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doc88git/flux-icon/issues"
+  },
+  "homepage": "https://github.com/doc88git/flux-icon#readme"
+}
