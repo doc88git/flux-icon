@@ -1,8 +1,9 @@
-const requireModule = require.context("./assets", false, /\.svg$/);
+const fluxIcons = (name, size = 16) => {
+  try {
+    return require(`./assets/${size}px/${name}-${size}px.svg`)
+  } catch (e) {
+    console.error('File not found')
+  }
+}
 
-requireModule.keys().forEach(fileName => {
-  const moduleName = fileName.replace(/(\.\/|\.svg)/g, "");
-  icons[moduleName] = requireModule(fileName).default;
-});
-
-export default icons;
+export default fluxIcons
