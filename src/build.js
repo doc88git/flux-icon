@@ -23,6 +23,19 @@ const listFiles = (directoryPath, item) => {
   });
 };
 
+const cleanDist = () => {
+  return new Promise(function(resolve, reject) {
+    const distDir = `${__dirname}/dist`
+    fs.readdir(distDir, (err, files) => {
+      if (err) return reject('Unable to scan directory: ' + err);
+      files.forEach(file => {
+        fs.unlink(`${distDir}/${file}`, err => (err) ? console.log(err) : '');
+      })
+      resolve("Done!")
+    });
+  });
+};
+
 const getIcons = () => {
   return Promise.all(
     sizes.map(async item => {
@@ -34,18 +47,20 @@ const getIcons = () => {
   );
 };
 
-const createComponents = () => {
+const createComponents = async () => {
+  await cleanDist();
+
   getIcons().then(icons => {
     icons[0].map(icon => {
-      const fileName = `${__dirname}/dist/${icon.name}-${icon.size}`
-      const content = `${icon.content}`
+      const fileName = `${__dirname}/dist/${icon.name}-${icon.size}px.vue`;
+      const content = `<template>\n${icon.content}</template>\n<script>\nexport default {name: "${icon.name}"}\n</script>`;
 
-      fs.writeFile(fileName, content, (err) => {
+      fs.writeFile(fileName, content, err => {
         if (err) return console.log(`File ${fileName} error!`);
         console.log(`File ${fileName} done!`);
       });
-    })
-  })
+    });
+  });
 };
 
-createComponents()
+createComponents();
