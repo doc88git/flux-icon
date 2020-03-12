@@ -1,0 +1,8 @@
+<template>
+<svg id="table-2-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="table-2-24px-2" data-name="table-2-24px" d="M21,0H3A2.946,2.946,0,0,0,0,3V21a2.946,2.946,0,0,0,3,3H21a2.946,2.946,0,0,0,3-3V3A2.946,2.946,0,0,0,21,0ZM3,2H21a.945.945,0,0,1,1,1V6H2V3A.945.945,0,0,1,3,2ZM2,21V8h9V22H3A.945.945,0,0,1,2,21Zm19,1H13V8h9V21A.945.945,0,0,1,21,22Z"/>
+</svg>
+</template>
+<script>
+export default {name: "table-2"}
+</script>

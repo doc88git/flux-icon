@@ -1,0 +1,10 @@
+<template>
+<svg id="check-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="17" viewBox="0 0 24 17">
+  <g id="Group_189" data-name="Group 189" transform="translate(0 -2)">
+    <path id="Path_198" data-name="Path 198" d="M8,19a1,1,0,0,1-.707-.293l-7-7a1,1,0,0,1,1.414-1.414L8,16.586,22.293,2.293a1,1,0,0,1,1.414,1.414l-15,15A1,1,0,0,1,8,19Z"/>
+  </g>
+</svg>
+</template>
+<script>
+export default {name: "check"}
+</script>

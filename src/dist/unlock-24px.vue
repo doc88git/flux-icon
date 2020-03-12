@@ -1,0 +1,8 @@
+<template>
+<svg id="unlock-24px" xmlns="http://www.w3.org/2000/svg" width="20" height="24" viewBox="0 0 20 24">
+  <path id="unlock-24px-2" data-name="unlock-24px" d="M19,13H17V7A7,7,0,0,0,3,7V8A.945.945,0,0,0,4,9,.945.945,0,0,0,5,8V7A5,5,0,0,1,15,7v6H1a.945.945,0,0,0-1,1v9a.945.945,0,0,0,1,1H19a.945.945,0,0,0,1-1V14A.945.945,0,0,0,19,13Zm-1,9H2V15H18Z"/>
+</svg>
+</template>
+<script>
+export default {name: "unlock"}
+</script>
