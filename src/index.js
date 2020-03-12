@@ -1,4 +1,4 @@
-const fluxIcons = (name, size = 16) => {
+const fluxIcons = (name, size) => {
   try {
     return require(`./dist/${name}-${size}px.vue`)
   } catch (e) {
