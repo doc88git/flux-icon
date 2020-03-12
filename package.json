@@ -1,10 +1,11 @@
 {
   "name": "@doc88/flux-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flux Icons",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo;"
+    "test": "echo;",
+    "build": "node src/build.js"
   },
   "repository": {
     "type": "git",
