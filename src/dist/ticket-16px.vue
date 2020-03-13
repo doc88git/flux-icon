@@ -5,6 +5,6 @@
   </g>
 </svg>
 </template>
-<script>
-export default {name: "ticket"}
+<script> 
+ export default { name: "ticket" }
 </script>

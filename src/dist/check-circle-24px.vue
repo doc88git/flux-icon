@@ -3,6 +3,6 @@
   <path id="check-circle-24px-2" data-name="check-circle-24px" d="M12,24A12,12,0,1,1,24,12,12.035,12.035,0,0,1,12,24ZM12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2ZM10.7,16.7l8-8a.99.99,0,1,0-1.4-1.4L10,14.6,5.7,10.3a.99.99,0,1,0-1.4,1.4l5,5a.967.967,0,0,0,1.4,0Z"/>
 </svg>
 </template>
-<script>
-export default {name: "check-circle"}
+<script> 
+ export default { name: "check-circle" }
 </script>

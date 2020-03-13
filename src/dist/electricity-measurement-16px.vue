@@ -5,6 +5,6 @@
   </g>
 </svg>
 </template>
-<script>
-export default {name: "electricity-measurement"}
+<script> 
+ export default { name: "electricity-measurement" }
 </script>

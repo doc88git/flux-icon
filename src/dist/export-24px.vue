@@ -1,6 +1,4 @@
 <template>
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <title>export-24px</title>
@@ -10,6 +8,6 @@
 	c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4L20.6,5H14c-3.9,0-7,3.1-7,7V14z"/>
 </svg>
 </template>
-<script>
-export default {name: "export"}
+<script> 
+ export default { name: "export" }
 </script>

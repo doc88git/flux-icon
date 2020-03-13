@@ -3,6 +3,6 @@
   <path id="chart-bars-24px-2" data-name="chart-bars-24px" d="M23,22H22V6a.945.945,0,0,0-1-1H17a.945.945,0,0,0-1,1V9H14V5a.945.945,0,0,0-1-1H9A.945.945,0,0,0,8,5v7H5a.945.945,0,0,0-1,1v9H2V1A.945.945,0,0,0,1,0,.945.945,0,0,0,0,1V23a.945.945,0,0,0,1,1H23a1,1,0,0,0,0-2ZM18,7h2V22H18Zm-2,4V22H14V11ZM10,6h2V22H10ZM6,14H8v8H6Z"/>
 </svg>
 </template>
-<script>
-export default {name: "chart-bars"}
+<script> 
+ export default { name: "chart-bars" }
 </script>

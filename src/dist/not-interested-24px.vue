@@ -3,6 +3,6 @@
   <path id="not-interested-24px-2" data-name="not-interested-24px" d="M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM2,12A9.929,9.929,0,0,1,4.3,5.7h0l14,14h0A9.929,9.929,0,0,1,12,22,10.029,10.029,0,0,1,2,12Zm17.7,6.3h0l-14-14h0A9.929,9.929,0,0,1,12,2,10.029,10.029,0,0,1,22,12,9.929,9.929,0,0,1,19.7,18.3Z"/>
 </svg>
 </template>
-<script>
-export default {name: "not-interested"}
+<script> 
+ export default { name: "not-interested" }
 </script>

@@ -3,6 +3,6 @@
   <path id="Path_152" data-name="Path 152" d="M-1.5,15H-2V5.5A.5.5,0,0,0-2.5,5h-3a.5.5,0,0,0-.5.5V8H-8V2.5A.5.5,0,0,0-8.5,2h-3a.5.5,0,0,0-.5.5V11h-2.5a.5.5,0,0,0-.5.5V15h-1V.5a.5.5,0,0,0-.5-.5.5.5,0,0,0-.5.5v15a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,.5-.5A.5.5,0,0,0-1.5,15ZM-14,12h2v3h-2Zm3-.5V3h2V15h-2ZM-8,9h2v6H-8Zm3,6V6h2v9Z" transform="translate(17)"/>
 </svg>
 </template>
-<script>
-export default {name: "chart-bars"}
+<script> 
+ export default { name: "chart-bars" }
 </script>

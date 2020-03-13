@@ -3,6 +3,6 @@
   <path id="plus-circle-24px-2" data-name="plus-circle-24px" d="M20.5,3.5A12.021,12.021,0,1,0,12,24a12.214,12.214,0,0,0,8.5-3.5A12.011,12.011,0,0,0,20.5,3.5ZM19.1,19.1A10.041,10.041,0,0,1,4.9,4.9a10.141,10.141,0,0,1,14.2,0A10.08,10.08,0,0,1,19.1,19.1Zm1-7.1a.945.945,0,0,1-1,1H13v6.1a1,1,0,0,1-2,0V13H4.9a1,1,0,1,1,0-2H11V4.9a1,1,0,0,1,2,0V11h6.1A1,1,0,0,1,20.1,12Z" transform="translate(0.025 0.025)"/>
 </svg>
 </template>
-<script>
-export default {name: "plus-circle"}
+<script> 
+ export default { name: "plus-circle" }
 </script>

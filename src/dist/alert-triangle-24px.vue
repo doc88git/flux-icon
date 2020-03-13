@@ -5,6 +5,6 @@
   </g>
 </svg>
 </template>
-<script>
-export default {name: "alert-triangle"}
+<script> 
+ export default { name: "alert-triangle" }
 </script>

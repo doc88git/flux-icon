@@ -3,6 +3,6 @@
   <path id="Path_172" data-name="Path 172" d="M-7.5,8H-21.293l6.647-6.646a.5.5,0,0,0,0-.708.5.5,0,0,0-.708,0l-7.5,7.5a.518.518,0,0,0-.109.163.505.505,0,0,0,0,.382.518.518,0,0,0,.109.163l7.5,7.5A.5.5,0,0,0-15,16.5a.5.5,0,0,0,.354-.146.5.5,0,0,0,0-.708L-21.293,9H-7.5A.5.5,0,0,0-7,8.5.5.5,0,0,0-7.5,8Z" transform="translate(23 -0.5)"/>
 </svg>
 </template>
-<script>
-export default {name: "arrow-left"}
+<script> 
+ export default { name: "arrow-left" }
 </script>
