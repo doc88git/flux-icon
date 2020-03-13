@@ -1,6 +1,6 @@
 export default (name, size) => {
   try {
-    return import(`./dist/${name}-${size}px.vue`)
+    return require(`./dist/${name}-${size}px.vue`).default
   } catch (e) {
     console.error('File not found')
   }
