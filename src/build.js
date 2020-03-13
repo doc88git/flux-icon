@@ -54,7 +54,7 @@ const createComponents = async () => {
     icons.forEach(size => {
       size.map(icon => {
         const fileName = `${__dirname}/dist/${icon.name}-${icon.size}px.vue`;
-        const content = `<template>\n${icon.content}</template>\n<script>\nexport default {name: "${icon.name}"}\n</script>`;
+        const content = `<template>\n${icon.content}</template>\n<script> \n export default { name: "${icon.name}" }\n</script>`;
 
         fs.writeFile(fileName, content, err => {
           if (err) return console.log(`File ${fileName} error!`);
