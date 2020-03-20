@@ -1,17 +1,12 @@
 {
   "name": "@doc88/flux-icon",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Flux Icons",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo;",
-    "build": "node src/scripts/build.js",
-    "make:doc": "node src/scripts/makeIconsDoc.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/doc88git/flux-icon.git"
-  },
+  "type": "module",
+  "author": "Gabriel Gelado",
+  "license": "MIT",
+  "homepage": "https://github.com/doc88git/flux-icon#readme",
   "keywords": [
     "flux",
     "icons",
@@ -20,11 +15,24 @@
     "vue",
     "vuejs"
   ],
-  "type": "module",
-  "author": "Gabriel Gelado",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doc88git/flux-icon.git"
+  },
   "bugs": {
     "url": "https://github.com/doc88git/flux-icon/issues"
   },
-  "homepage": "https://github.com/doc88git/flux-icon#readme"
+  "scripts": {
+    "test": "echo;",
+    "build": "node src/scripts/build.js",
+    "make:doc": "node src/scripts/makeIconsDoc.js"
+  },
+  "devDependencies": {
+    "husky": "^4.2.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run build; npm run make:doc"
+    }
+  }
 }
