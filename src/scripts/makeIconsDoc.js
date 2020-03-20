@@ -50,7 +50,7 @@ const createComponents = async () => {
 
   getIcons().then(icons => {
     icons[0].map(icon => {
-      tableHeader += `| ${icon.name} | ![${icon.name}](${icon.path_16} =16x16) | ![${icon.name}](${icon.path_24} =24x24) |\n`
+      tableHeader += `| ${icon.name} | !()[${icon.path_16} =16x16] | !()[${icon.path_24} =24x24] |\n`
     })
 
     const content = template.replace(/<#ICONS-TABLE#>/g, tableHeader)
