@@ -51,11 +51,7 @@ const createComponents = async () => {
   getIcons().then(icons => {
     icons[0].map(icon => {
       tableHeader += `
-        <tr>\n
-        <td>${icon.name}</td>\n
-        <td><img src="${icon.path_16}" height="16px" width="16px"></td>\n
-        <td><img src="${icon.path_24}" height="24px" width="24px"></td>\n
-        </tr>\n`
+        <tr>\n<td>${icon.name}</td>\n<td><img src="${icon.path_16}" height="16px" width="16px"></td>\n<td><img src="${icon.path_24}" height="24px" width="24px"></td>\n</tr>\n`
     })
 
     tableHeader += "</table>\n"
