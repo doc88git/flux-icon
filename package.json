@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo;",
-    "build": "node src/build.js"
+    "build": "node src/scripts/build.js",
+    "make:doc": "node src/scripts/makeIconsDoc.js"
   },
   "repository": {
     "type": "git",

@@ -25,7 +25,7 @@ const listFiles = (directoryPath, item) => {
 
 const cleanDist = () => {
   return new Promise(function(resolve, reject) {
-    const distDir = `${__dirname}/dist`;
+    const distDir = `${__dirname}/../dist`;
     fs.readdir(distDir, (err, files) => {
       if (err) return reject('Unable to scan directory: ' + err);
       files.forEach(file => {
@@ -40,7 +40,7 @@ const getIcons = () => {
   return Promise.all(
     sizes.map(async item => {
       const size = `${item}px`;
-      const directoryPath = join(__dirname, `assets/${size}`);
+      const directoryPath = join(__dirname, `../assets/${size}`);
 
       return await listFiles(directoryPath, item);
     })
@@ -53,7 +53,7 @@ const createComponents = async () => {
   getIcons().then(icons => {
     icons.forEach(size => {
       size.map(icon => {
-        const fileName = `${__dirname}/dist/${icon.name}-${icon.size}px.vue`;
+        const fileName = `${__dirname}/../dist/${icon.name}-${icon.size}px.vue`;
         const content = `<template>\n${icon.content}</template>\n<script> \n export default { name: "${icon.name}" }\n</script>`;
 
         fs.writeFile(fileName, content, err => {
