@@ -1,0 +1,5 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M23,7a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1H1A1,1,0,0,0,0,1V6A1,1,0,0,0,1,7H2V9H1a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H2v2H1a1,1,0,0,0-1,1v5a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V18a1,1,0,0,0-1-1H22V15h1a1,1,0,0,0,1-1V10a1,1,0,0,0-1-1H22V7ZM2,2H22V5H2ZM22,22H2V19H22Zm-2-5H4V15H20Zm2-4H2V11H22ZM20,9H4V7H20Z"/></g></g></svg></template>
+<script> 
+ export default { name: "data" }
+</script>
