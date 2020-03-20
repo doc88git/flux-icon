@@ -46,16 +46,28 @@ const writeReadMe = (content) => {
 
 
 const createComponents = async () => {
-  let tableHeader = `| Nome | Icon (16px) | Icon (24px) | \n |------|:------:|------:|\n`
+  let tableHeader = "<table>\n<tr>\n<th>Nome</th>\n<th>Icon (16px)</th>\n<th>Icon (24px)</th>\n</tr>\n"
 
   getIcons().then(icons => {
     icons[0].map(icon => {
-      tableHeader += `| ${icon.name} | !()[${icon.path_16} =16x16] | !()[${icon.path_24} =24x24] |\n`
+      tableHeader += `<tr>\n<td>${icon.name}</td>\n<td><img src="${icon.path_16}" height="16px"></td>\n<td><img src="${icon.path_24}" height="24px"></td>\n</tr>\n`
     })
+
+    tableHeader += "</table>\n"
 
     const content = template.replace(/<#ICONS-TABLE#>/g, tableHeader)
 
     writeReadMe(content)
+  // let tableHeader = `| Nome | Icon (16px) | Icon (24px) | \n |------|:------:|------:|\n`
+
+  // getIcons().then(icons => {
+  //   icons[0].map(icon => {
+  //     tableHeader += `| ${icon.name} | !()[${icon.path_16} =16x16] | !()[${icon.path_24} =24x24] |\n`
+  //   })
+
+  //   const content = template.replace(/<#ICONS-TABLE#>/g, tableHeader)
+
+  //   writeReadMe(content)
   });
 };
 
