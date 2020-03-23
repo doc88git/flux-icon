@@ -407,9 +407,9 @@
 <td><img src="./src/assets/24px/factory-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
-<td>file-16.svg</td>
-<td><img src="./src/assets/16px/file-16.svg" height="16px" width="16px"></td>
-<td><img src="./src/assets/24px/file-24.svg" height="24px" width="24px"></td>
+<td>file</td>
+<td><img src="./src/assets/16px/file-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/file-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>file-copy</td>
@@ -420,11 +420,6 @@
 <td>file-pdf</td>
 <td><img src="./src/assets/16px/file-pdf-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/file-pdf-24px.svg" height="24px" width="24px"></td>
-</tr>
-<tr>
-<td>file-text-16.svg</td>
-<td><img src="./src/assets/16px/file-text-16.svg" height="16px" width="16px"></td>
-<td><img src="./src/assets/24px/file-text-24.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>file-text</td>
@@ -530,11 +525,6 @@
 <td>historical-sumary</td>
 <td><img src="./src/assets/16px/historical-sumary-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/historical-sumary-24px.svg" height="24px" width="24px"></td>
-</tr>
-<tr>
-<td>home-16.svg</td>
-<td><img src="./src/assets/16px/home-16.svg" height="16px" width="16px"></td>
-<td><img src="./src/assets/24px/home-24.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>home</td>

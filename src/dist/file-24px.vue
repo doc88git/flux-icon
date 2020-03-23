@@ -4,5 +4,5 @@
 </svg>
 </template>
 <script> 
- export default { name: "file-24.svg" }
+ export default { name: "file" }
 </script>
