@@ -4,5 +4,5 @@
 </svg>
 </template>
 <script> 
- export default { name: "wolrd" }
+ export default { name: "world" }
 </script>
