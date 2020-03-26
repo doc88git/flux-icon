@@ -22,6 +22,11 @@
 <td><img src="./src/assets/24px/adjustments-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>air-conditioning</td>
+<td><img src="./src/assets/16px/air-conditioning-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/air-conditioning-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>alarm</td>
 <td><img src="./src/assets/16px/alarm-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/alarm-24px.svg" height="24px" width="24px"></td>
@@ -407,6 +412,11 @@
 <td><img src="./src/assets/24px/factory-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>factory-mat</td>
+<td><img src="./src/assets/16px/factory-mat-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/factory-mat-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>file</td>
 <td><img src="./src/assets/16px/file-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/file-24px.svg" height="24px" width="24px"></td>
@@ -547,6 +557,11 @@
 <td><img src="./src/assets/24px/lab-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>laptop</td>
+<td><img src="./src/assets/16px/laptop-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/laptop-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>libra</td>
 <td><img src="./src/assets/16px/libra-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/libra-24px.svg" height="24px" width="24px"></td>
@@ -670,6 +685,11 @@
 <td>not-interested</td>
 <td><img src="./src/assets/16px/not-interested-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/not-interested-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>pc</td>
+<td><img src="./src/assets/16px/pc-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/pc-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>person</td>
@@ -940,6 +960,11 @@
 <td>user-check</td>
 <td><img src="./src/assets/16px/user-check-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/user-check-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>vending-machine</td>
+<td><img src="./src/assets/16px/vending-machine-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/vending-machine-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>video</td>
