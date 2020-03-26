@@ -4,6 +4,7 @@ import fs from 'fs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const sizes = [16, 24];
+const distDir = `${__dirname}/../../dist`;
 
 const getFiles = (files, dir, size) => {
   return files.map(name => ({
@@ -25,7 +26,6 @@ const listFiles = (directoryPath, item) => {
 
 const cleanDist = () => {
   return new Promise(function(resolve, reject) {
-    const distDir = `${__dirname}/../dist`;
     fs.readdir(distDir, (err, files) => {
       if (err) return reject('Unable to scan directory: ' + err);
       files.forEach(file => {
@@ -53,7 +53,7 @@ const createComponents = async () => {
   getIcons().then(icons => {
     icons.forEach(size => {
       size.map(icon => {
-        const fileName = `${__dirname}/../dist/${icon.name}-${icon.size}px.vue`;
+        const fileName = `${distDir}/${icon.name}-${icon.size}px.vue`;
         const content = `<template>\n${icon.content}</template>\n<script> \n export default { name: "${icon.name}" }\n</script>`;
 
         fs.writeFile(fileName, content, err => {
