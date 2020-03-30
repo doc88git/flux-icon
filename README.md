@@ -82,9 +82,9 @@
 <td><img src="./src/assets/24px/backup-cloud-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
-<td>backup-server</td>
-<td><img src="./src/assets/16px/backup-server-16px.svg" height="16px" width="16px"></td>
-<td><img src="./src/assets/24px/backup-server-24px.svg" height="24px" width="24px"></td>
+<td>backup-service</td>
+<td><img src="./src/assets/16px/backup-service-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/backup-service-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>badge</td>
