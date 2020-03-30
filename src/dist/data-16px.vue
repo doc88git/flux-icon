@@ -1,5 +1,17 @@
 <template>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.12 16.12"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M15.56,4.12a.56.56,0,0,0,.56-.56v-3A.56.56,0,0,0,15.56,0H.56A.56.56,0,0,0,0,.56v3a.56.56,0,0,0,.56.56H1.5V6H.56A.56.56,0,0,0,0,6.56v3a.56.56,0,0,0,.56.56H1.5V12H.56a.56.56,0,0,0-.56.56v3a.56.56,0,0,0,.56.56h15a.56.56,0,0,0,.56-.56v-3a.56.56,0,0,0-.56-.56h-.94V10.12h.94a.56.56,0,0,0,.56-.56v-3A.56.56,0,0,0,15.56,6h-.94V4.12Zm-14.44-3H15V3H1.12ZM15,15H1.12V13.12H15Zm-1.5-3H2.62V10.12H13.5ZM15,9H1.12V7.12H15ZM13.5,6H2.62V4.12H13.5Z"/></g></g></svg></template>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16.1 16.1" style="enable-background:new 0 0 16.1 16.1;" xml:space="preserve">
+<g id="Layer_1-2">
+	<path d="M15.6,4.1c0.3,0,0.6-0.3,0.6-0.6v0v-3c0-0.3-0.3-0.6-0.6-0.6c0,0,0,0,0,0h-15C0.3,0,0,0.3,0,0.6v3c0,0.3,0.3,0.6,0.6,0.6
+		h0.9V6H0.6C0.3,6,0,6.3,0,6.6v3c0,0.3,0.3,0.6,0.6,0.6c0,0,0,0,0,0h0.9V12H0.6C0.3,12,0,12.3,0,12.6c0,0,0,0,0,0v3
+		c0,0.3,0.3,0.6,0.6,0.6c0,0,0,0,0,0h15c0.3,0,0.6-0.3,0.6-0.6v0v-3c0-0.3-0.3-0.6-0.6-0.6h0h-0.9v-1.9h0.9c0.3,0,0.6-0.3,0.6-0.6v0
+		v-3c0-0.3-0.3-0.6-0.6-0.6h-0.9V4.1H15.6z M1.1,1.1H15V3H1.1L1.1,1.1z M15,15H1.1v-1.9H15V15z M13.5,12H2.6v-1.9h10.9V12z M15,9
+		H1.1V7.1H15V9z M13.5,6H2.6V4.1h10.9V6z"/>
+</g>
+</svg>
+</template>
 <script> 
  export default { name: "data" }
 </script>
