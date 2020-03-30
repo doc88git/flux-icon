@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "X-16px.vue"
+  },
+  {
+    "name": "add-user-16px.vue"
+  },
+  {
+    "name": "adjustments-16px.vue"
+  },
+  {
+    "name": "air-conditioning-16px.vue"
+  },
+  {
+    "name": "alarm-16px.vue"
+  },
+  {
+    "name": "alert-16px.vue"
+  },
+  {
+    "name": "alert-circle-16px.vue"
+  },
+  {
+    "name": "alert-square-16px.vue"
+  },
+  {
+    "name": "alert-triangle-16px.vue"
+  },
+  {
+    "name": "app-server-16px.vue"
+  },
+  {
+    "name": "apps-16px.vue"
+  },
+  {
+    "name": "arrow-left-16px.vue"
+  },
+  {
+    "name": "arrow-right-16px.vue"
+  },
+  {
+    "name": "arrow-up-16px.vue"
+  },
+  {
+    "name": "backup-cloud-16px.vue"
+  },
+  {
+    "name": "backup-service-16px.vue"
+  },
+  {
+    "name": "badge-16px.vue"
+  },
+  {
+    "name": "battery-full-16px.vue"
+  },
+  {
+    "name": "battery-half-16px.vue"
+  },
+  {
+    "name": "battery-low-16px.vue"
+  },
+  {
+    "name": "bell-16px.vue"
+  },
+  {
+    "name": "block-16px.vue"
+  },
+  {
+    "name": "branch-16px.vue"
+  },
+  {
+    "name": "briefcase-16px.vue"
+  },
+  {
+    "name": "bug-16px.vue"
+  },
+  {
+    "name": "calculator-16px.vue"
+  },
+  {
+    "name": "calendar-16px.vue"
+  },
+  {
+    "name": "calendar-add-16px.vue"
+  },
+  {
+    "name": "calendar-cancel-16px.vue"
+  },
+  {
+    "name": "calendar-check-16px.vue"
+  },
+  {
+    "name": "calendar-exclude-16px.vue"
+  },
+  {
+    "name": "certified-16px.vue"
+  },
+  {
+    "name": "chart-bars-16px.vue"
+  },
+  {
+    "name": "chart-grow-16px.vue"
+  },
+  {
+    "name": "chart-line-16px.vue"
+  },
+  {
+    "name": "chart-pizza-16px.vue"
+  },
+  {
+    "name": "chat-bubble-16px.vue"
+  },
+  {
+    "name": "check-16px.vue"
+  },
+  {
+    "name": "check-circle-16px.vue"
+  },
+  {
+    "name": "check-square-16px.vue"
+  },
+  {
+    "name": "chevron-down-16px.vue"
+  },
+  {
+    "name": "chevron-left-16px.vue"
+  },
+  {
+    "name": "chevron-right-16px.vue"
+  },
+  {
+    "name": "chevron-up-16px.vue"
+  },
+  {
+    "name": "chevrons-down-16px.vue"
+  },
+  {
+    "name": "chevrons-left-16px.vue"
+  },
+  {
+    "name": "chevrons-right-16px.vue"
+  },
+  {
+    "name": "chevrons-up-16px.vue"
+  },
+  {
+    "name": "clalendar-check-16px.vue"
+  },
+  {
+    "name": "cloud-16px.vue"
+  },
+  {
+    "name": "cloudy-16px.vue"
+  },
+  {
+    "name": "compact-file-16px.vue"
+  },
+  {
+    "name": "company-16px.vue"
+  },
+  {
+    "name": "compass-16px.vue"
+  },
+  {
+    "name": "connected-16px.vue"
+  },
+  {
+    "name": "contacts-16px.vue"
+  },
+  {
+    "name": "dashboard-16px.vue"
+  },
+  {
+    "name": "data-16px.vue"
+  },
+  {
+    "name": "disconnected-16px.vue"
+  },
+  {
+    "name": "download-16px.vue"
+  },
+  {
+    "name": "download-cloud-16px.vue"
+  },
+  {
+    "name": "drink-capuccino-16px.vue"
+  },
+  {
+    "name": "drink-chocolate-16px.vue"
+  },
+  {
+    "name": "drink-coffee-l-16px.vue"
+  },
+  {
+    "name": "drink-coffee-s-16px.vue"
+  },
+  {
+    "name": "drink-milk-16px.vue"
+  },
+  {
+    "name": "drink-milk-coffee-16px.vue"
+  },
+  {
+    "name": "drink-mocha-16px.vue"
+  },
+  {
+    "name": "edit-16px.vue"
+  },
+  {
+    "name": "edit-2-16px.vue"
+  },
+  {
+    "name": "electric-tower-16px.vue"
+  },
+  {
+    "name": "electricity-measurement-16px.vue"
+  },
+  {
+    "name": "energy-distribution-16px.vue"
+  },
+  {
+    "name": "ethernet-16px.vue"
+  },
+  {
+    "name": "exit-16px.vue"
+  },
+  {
+    "name": "expand-16px.vue"
+  },
+  {
+    "name": "export-16px.vue"
+  },
+  {
+    "name": "external-link-16px.vue"
+  },
+  {
+    "name": "eye-16px.vue"
+  },
+  {
+    "name": "eye-close-16px.vue"
+  },
+  {
+    "name": "eye-off-16px.vue"
+  },
+  {
+    "name": "factory-16px.vue"
+  },
+  {
+    "name": "factory-mat-16px.vue"
+  },
+  {
+    "name": "file-16px.vue"
+  },
+  {
+    "name": "file-copy-16px.vue"
+  },
+  {
+    "name": "file-pdf-16px.vue"
+  },
+  {
+    "name": "file-text-16px.vue"
+  },
+  {
+    "name": "filter-16px.vue"
+  },
+  {
+    "name": "firewall-16px.vue"
+  },
+  {
+    "name": "flag-16px.vue"
+  },
+  {
+    "name": "folder-16px.vue"
+  },
+  {
+    "name": "forum-16px.vue"
+  },
+  {
+    "name": "forward-16px.vue"
+  },
+  {
+    "name": "garden-16px.vue"
+  },
+  {
+    "name": "gavel-16px.vue"
+  },
+  {
+    "name": "group-16px.vue"
+  },
+  {
+    "name": "gsm-16px.vue"
+  },
+  {
+    "name": "hand-16px.vue"
+  },
+  {
+    "name": "handshake-16px.vue"
+  },
+  {
+    "name": "hardware-16px.vue"
+  },
+  {
+    "name": "hash-16px.vue"
+  },
+  {
+    "name": "heart-16px.vue"
+  },
+  {
+    "name": "help-16px.vue"
+  },
+  {
+    "name": "help-square-16px.vue"
+  },
+  {
+    "name": "hierarchy-16px.vue"
+  },
+  {
+    "name": "historic-16px.vue"
+  },
+  {
+    "name": "historical-sumary-16px.vue"
+  },
+  {
+    "name": "home-16px.vue"
+  },
+  {
+    "name": "id-16px.vue"
+  },
+  {
+    "name": "invoice-16px.vue"
+  },
+  {
+    "name": "lab-16px.vue"
+  },
+  {
+    "name": "laptop-16px.vue"
+  },
+  {
+    "name": "libra-16px.vue"
+  },
+  {
+    "name": "library-16px.vue"
+  },
+  {
+    "name": "light-bulb-16px.vue"
+  },
+  {
+    "name": "link-16px.vue"
+  },
+  {
+    "name": "list-16px.vue"
+  },
+  {
+    "name": "lock-16px.vue"
+  },
+  {
+    "name": "mail-16px.vue"
+  },
+  {
+    "name": "mail-open-16px.vue"
+  },
+  {
+    "name": "map-16px.vue"
+  },
+  {
+    "name": "map-alt-16px.vue"
+  },
+  {
+    "name": "map-pin-16px.vue"
+  },
+  {
+    "name": "map-pin-add-16px.vue"
+  },
+  {
+    "name": "map-pin-check-16px.vue"
+  },
+  {
+    "name": "medal-16px.vue"
+  },
+  {
+    "name": "minus-16px.vue"
+  },
+  {
+    "name": "minus-circle-16px.vue"
+  },
+  {
+    "name": "minus-square-16px.vue"
+  },
+  {
+    "name": "mobile-16px.vue"
+  },
+  {
+    "name": "molecule-16px.vue"
+  },
+  {
+    "name": "money-16px.vue"
+  },
+  {
+    "name": "money-2-16px.vue"
+  },
+  {
+    "name": "monitoring-16px.vue"
+  },
+  {
+    "name": "mpls-16px.vue"
+  },
+  {
+    "name": "new-password-16px.vue"
+  },
+  {
+    "name": "not-interested-16px.vue"
+  },
+  {
+    "name": "pc-16px.vue"
+  },
+  {
+    "name": "person-16px.vue"
+  },
+  {
+    "name": "photo-camera-16px.vue"
+  },
+  {
+    "name": "pin-16px.vue"
+  },
+  {
+    "name": "plus-16px.vue"
+  },
+  {
+    "name": "plus-circle-16px.vue"
+  },
+  {
+    "name": "plus-square-16px.vue"
+  },
+  {
+    "name": "power-plug-16px.vue"
+  },
+  {
+    "name": "puzzle-16px.vue"
+  },
+  {
+    "name": "quote-16px.vue"
+  },
+  {
+    "name": "refresh-16px.vue"
+  },
+  {
+    "name": "refresh-alt-16px.vue"
+  },
+  {
+    "name": "register-16px.vue"
+  },
+  {
+    "name": "reply-16px.vue"
+  },
+  {
+    "name": "reply-all-16px.vue"
+  },
+  {
+    "name": "request-16px.vue"
+  },
+  {
+    "name": "request-added-16px.vue"
+  },
+  {
+    "name": "request-approval-16px.vue"
+  },
+  {
+    "name": "request-new-16px.vue"
+  },
+  {
+    "name": "request-refund-16px.vue"
+  },
+  {
+    "name": "request-send-16px.vue"
+  },
+  {
+    "name": "request-sent-16px.vue"
+  },
+  {
+    "name": "rocket-16px.vue"
+  },
+  {
+    "name": "save-16px.vue"
+  },
+  {
+    "name": "search-16px.vue"
+  },
+  {
+    "name": "send-16px.vue"
+  },
+  {
+    "name": "server-16px.vue"
+  },
+  {
+    "name": "server-cloud-16px.vue"
+  },
+  {
+    "name": "settings-16px.vue"
+  },
+  {
+    "name": "share-16px.vue"
+  },
+  {
+    "name": "sliders-16px.vue"
+  },
+  {
+    "name": "sort-16px.vue"
+  },
+  {
+    "name": "sort-down-16px.vue"
+  },
+  {
+    "name": "sort-up-16px.vue"
+  },
+  {
+    "name": "star-16px.vue"
+  },
+  {
+    "name": "sun-16px.vue"
+  },
+  {
+    "name": "table-16px.vue"
+  },
+  {
+    "name": "table-2-16px.vue"
+  },
+  {
+    "name": "table-3-16px.vue"
+  },
+  {
+    "name": "tag-16px.vue"
+  },
+  {
+    "name": "target-16px.vue"
+  },
+  {
+    "name": "telephone-16px.vue"
+  },
+  {
+    "name": "thermometer-16px.vue"
+  },
+  {
+    "name": "thunderbolt-16px.vue"
+  },
+  {
+    "name": "ticket-16px.vue"
+  },
+  {
+    "name": "trafic-16px.vue"
+  },
+  {
+    "name": "trash-16px.vue"
+  },
+  {
+    "name": "trophy-16px.vue"
+  },
+  {
+    "name": "umbrella-16px.vue"
+  },
+  {
+    "name": "unlock-16px.vue"
+  },
+  {
+    "name": "upload-16px.vue"
+  },
+  {
+    "name": "user-16px.vue"
+  },
+  {
+    "name": "user-block-16px.vue"
+  },
+  {
+    "name": "user-cancel-16px.vue"
+  },
+  {
+    "name": "user-check-16px.vue"
+  },
+  {
+    "name": "vending-machine-16px.vue"
+  },
+  {
+    "name": "video-16px.vue"
+  },
+  {
+    "name": "vídeo-add-16px.vue"
+  },
+  {
+    "name": "vídeo-off-16px.vue"
+  },
+  {
+    "name": "wait-16px.vue"
+  },
+  {
+    "name": "water-16px.vue"
+  },
+  {
+    "name": "wifi-16px.vue"
+  },
+  {
+    "name": "wifi-2-16px.vue"
+  },
+  {
+    "name": "wind-energy-16px.vue"
+  },
+  {
+    "name": "window-16px.vue"
+  },
+  {
+    "name": "world-16px.vue"
+  },
+  {
+    "name": "x-circle-16px.vue"
+  },
+  {
+    "name": "x-square-16px.vue"
+  },
+  {
+    "name": "X-24px.vue"
+  },
+  {
+    "name": "add-user-24px.vue"
+  },
+  {
+    "name": "adjustments-24px.vue"
+  },
+  {
+    "name": "air-conditioning-24px.vue"
+  },
+  {
+    "name": "alarm-24px.vue"
+  },
+  {
+    "name": "alert-24px.vue"
+  },
+  {
+    "name": "alert-circle-24px.vue"
+  },
+  {
+    "name": "alert-square-24px.vue"
+  },
+  {
+    "name": "alert-triangle-24px.vue"
+  },
+  {
+    "name": "app-server-24px.vue"
+  },
+  {
+    "name": "apps-24px.vue"
+  },
+  {
+    "name": "arrow-left-24px.vue"
+  },
+  {
+    "name": "arrow-right-24px.vue"
+  },
+  {
+    "name": "arrow-up-24px.vue"
+  },
+  {
+    "name": "backup-cloud-24px.vue"
+  },
+  {
+    "name": "backup-service-24px.vue"
+  },
+  {
+    "name": "badge-24px.vue"
+  },
+  {
+    "name": "battery-full-24px.vue"
+  },
+  {
+    "name": "battery-half-24px.vue"
+  },
+  {
+    "name": "battery-low-24px.vue"
+  },
+  {
+    "name": "bell-24px.vue"
+  },
+  {
+    "name": "block-24px.vue"
+  },
+  {
+    "name": "branch-24px.vue"
+  },
+  {
+    "name": "briefcase-24px.vue"
+  },
+  {
+    "name": "bug-24px.vue"
+  },
+  {
+    "name": "calculator-24px.vue"
+  },
+  {
+    "name": "calendar-24px.vue"
+  },
+  {
+    "name": "calendar-add-24px.vue"
+  },
+  {
+    "name": "calendar-cancel-24px.vue"
+  },
+  {
+    "name": "calendar-check-24px.vue"
+  },
+  {
+    "name": "calendar-exclude-24px.vue"
+  },
+  {
+    "name": "certified-24px.vue"
+  },
+  {
+    "name": "chart-bars-24px.vue"
+  },
+  {
+    "name": "chart-grow-24px.vue"
+  },
+  {
+    "name": "chart-line-24px.vue"
+  },
+  {
+    "name": "chart-pizza-24px.vue"
+  },
+  {
+    "name": "chat-bubble-24px.vue"
+  },
+  {
+    "name": "check-24px.vue"
+  },
+  {
+    "name": "check-circle-24px.vue"
+  },
+  {
+    "name": "check-square-24px.vue"
+  },
+  {
+    "name": "chevron-down-24px.vue"
+  },
+  {
+    "name": "chevron-left-24px.vue"
+  },
+  {
+    "name": "chevron-right-24px.vue"
+  },
+  {
+    "name": "chevron-up-24px.vue"
+  },
+  {
+    "name": "chevrons-down-24px.vue"
+  },
+  {
+    "name": "chevrons-left-24px.vue"
+  },
+  {
+    "name": "chevrons-right-24px.vue"
+  },
+  {
+    "name": "chevrons-up-24px.vue"
+  },
+  {
+    "name": "clalendar-check-24px.vue"
+  },
+  {
+    "name": "cloud-24px.vue"
+  },
+  {
+    "name": "cloudy-24px.vue"
+  },
+  {
+    "name": "compact-file-24px.vue"
+  },
+  {
+    "name": "company-24px.vue"
+  },
+  {
+    "name": "compass-24px.vue"
+  },
+  {
+    "name": "connected-24px.vue"
+  },
+  {
+    "name": "contacts-24px.vue"
+  },
+  {
+    "name": "dashboard-24px.vue"
+  },
+  {
+    "name": "data-24px.vue"
+  },
+  {
+    "name": "disconnected-24px.vue"
+  },
+  {
+    "name": "download-24px.vue"
+  },
+  {
+    "name": "download-cloud-24px.vue"
+  },
+  {
+    "name": "drink-capuccino-24px.vue"
+  },
+  {
+    "name": "drink-chocolate-24px.vue"
+  },
+  {
+    "name": "drink-coffee-l-24px.vue"
+  },
+  {
+    "name": "drink-coffee-s-24px.vue"
+  },
+  {
+    "name": "drink-milk-24px.vue"
+  },
+  {
+    "name": "drink-milk-coffee-24px.vue"
+  },
+  {
+    "name": "drink-mocha-24px.vue"
+  },
+  {
+    "name": "edit-2-24px.vue"
+  },
+  {
+    "name": "edit-24px.vue"
+  },
+  {
+    "name": "electric-tower-24px.vue"
+  },
+  {
+    "name": "electricity-measurement-24px.vue"
+  },
+  {
+    "name": "energy-distribution-24px.vue"
+  },
+  {
+    "name": "ethernet-24px.vue"
+  },
+  {
+    "name": "exit-24px.vue"
+  },
+  {
+    "name": "expand-24px.vue"
+  },
+  {
+    "name": "export-24px.vue"
+  },
+  {
+    "name": "external-link-24px.vue"
+  },
+  {
+    "name": "eye-24px.vue"
+  },
+  {
+    "name": "eye-close-24px.vue"
+  },
+  {
+    "name": "eye-off-24px.vue"
+  },
+  {
+    "name": "factory-24px.vue"
+  },
+  {
+    "name": "factory-mat-24px.vue"
+  },
+  {
+    "name": "file-24px.vue"
+  },
+  {
+    "name": "file-copy-24px.vue"
+  },
+  {
+    "name": "file-pdf-24px.vue"
+  },
+  {
+    "name": "file-text-24px.vue"
+  },
+  {
+    "name": "filter-24px.vue"
+  },
+  {
+    "name": "firewall-24px.vue"
+  },
+  {
+    "name": "flag-24px.vue"
+  },
+  {
+    "name": "folder-24px.vue"
+  },
+  {
+    "name": "forum-24px.vue"
+  },
+  {
+    "name": "forward-24px.vue"
+  },
+  {
+    "name": "garden-24px.vue"
+  },
+  {
+    "name": "gavel-24px.vue"
+  },
+  {
+    "name": "group-24px.vue"
+  },
+  {
+    "name": "gsm-24px.vue"
+  },
+  {
+    "name": "hand-24px.vue"
+  },
+  {
+    "name": "handshake-24px.vue"
+  },
+  {
+    "name": "hardware-24px.vue"
+  },
+  {
+    "name": "hash-24px.vue"
+  },
+  {
+    "name": "heart-24px.vue"
+  },
+  {
+    "name": "help-24px.vue"
+  },
+  {
+    "name": "help-square-24px.vue"
+  },
+  {
+    "name": "hierarchy-24px.vue"
+  },
+  {
+    "name": "historic-24px.vue"
+  },
+  {
+    "name": "historical-sumary-24px.vue"
+  },
+  {
+    "name": "home-24px.vue"
+  },
+  {
+    "name": "id-24px.vue"
+  },
+  {
+    "name": "invoice-24px.vue"
+  },
+  {
+    "name": "lab-24px.vue"
+  },
+  {
+    "name": "laptop-24px.vue"
+  },
+  {
+    "name": "libra-24px.vue"
+  },
+  {
+    "name": "library-24px.vue"
+  },
+  {
+    "name": "light-bulb-24px.vue"
+  },
+  {
+    "name": "link-24px.vue"
+  },
+  {
+    "name": "list-24px.vue"
+  },
+  {
+    "name": "lock-24px.vue"
+  },
+  {
+    "name": "mail-24px.vue"
+  },
+  {
+    "name": "mail-open-24px.vue"
+  },
+  {
+    "name": "map-24px.vue"
+  },
+  {
+    "name": "map-alt-24px.vue"
+  },
+  {
+    "name": "map-pin-24px.vue"
+  },
+  {
+    "name": "map-pin-add-24px.vue"
+  },
+  {
+    "name": "map-pin-check-24px.vue"
+  },
+  {
+    "name": "medal-24px.vue"
+  },
+  {
+    "name": "minus-24px.vue"
+  },
+  {
+    "name": "minus-circle-24px.vue"
+  },
+  {
+    "name": "minus-square-24px.vue"
+  },
+  {
+    "name": "mobile-24px.vue"
+  },
+  {
+    "name": "molecule-24px.vue"
+  },
+  {
+    "name": "money-2-24px.vue"
+  },
+  {
+    "name": "money-24px.vue"
+  },
+  {
+    "name": "monitoring-24px.vue"
+  },
+  {
+    "name": "mpls-24px.vue"
+  },
+  {
+    "name": "new-password-24px.vue"
+  },
+  {
+    "name": "not-interested-24px.vue"
+  },
+  {
+    "name": "pc-24px.vue"
+  },
+  {
+    "name": "person-24px.vue"
+  },
+  {
+    "name": "photo-camera-24px.vue"
+  },
+  {
+    "name": "pin-24px.vue"
+  },
+  {
+    "name": "plus-24px.vue"
+  },
+  {
+    "name": "plus-circle-24px.vue"
+  },
+  {
+    "name": "plus-square-24px.vue"
+  },
+  {
+    "name": "power-plug-24px.vue"
+  },
+  {
+    "name": "puzzle-24px.vue"
+  },
+  {
+    "name": "quote-24px.vue"
+  },
+  {
+    "name": "refresh-24px.vue"
+  },
+  {
+    "name": "refresh-alt-24px.vue"
+  },
+  {
+    "name": "register-24px.vue"
+  },
+  {
+    "name": "reply-24px.vue"
+  },
+  {
+    "name": "reply-all-24px.vue"
+  },
+  {
+    "name": "request-24px.vue"
+  },
+  {
+    "name": "request-added-24px.vue"
+  },
+  {
+    "name": "request-approval-24px.vue"
+  },
+  {
+    "name": "request-new-24px.vue"
+  },
+  {
+    "name": "request-refund-24px.vue"
+  },
+  {
+    "name": "request-send-24px.vue"
+  },
+  {
+    "name": "request-sent-24px.vue"
+  },
+  {
+    "name": "rocket-24px.vue"
+  },
+  {
+    "name": "save-24px.vue"
+  },
+  {
+    "name": "search-24px.vue"
+  },
+  {
+    "name": "send-24px.vue"
+  },
+  {
+    "name": "server-24px.vue"
+  },
+  {
+    "name": "server-cloud-24px.vue"
+  },
+  {
+    "name": "settings-24px.vue"
+  },
+  {
+    "name": "share-24px.vue"
+  },
+  {
+    "name": "sliders-24px.vue"
+  },
+  {
+    "name": "sort-24px.vue"
+  },
+  {
+    "name": "sort-down-24px.vue"
+  },
+  {
+    "name": "sort-up-24px.vue"
+  },
+  {
+    "name": "star-24px.vue"
+  },
+  {
+    "name": "sun-24px.vue"
+  },
+  {
+    "name": "table-2-24px.vue"
+  },
+  {
+    "name": "table-24px.vue"
+  },
+  {
+    "name": "table-3-24px.vue"
+  },
+  {
+    "name": "tag-24px.vue"
+  },
+  {
+    "name": "target-24px.vue"
+  },
+  {
+    "name": "telephone-24px.vue"
+  },
+  {
+    "name": "thermometer-24px.vue"
+  },
+  {
+    "name": "thunderbolt-24px.vue"
+  },
+  {
+    "name": "ticket-24px.vue"
+  },
+  {
+    "name": "trafic-24px.vue"
+  },
+  {
+    "name": "trash-24px.vue"
+  },
+  {
+    "name": "trophy-24px.vue"
+  },
+  {
+    "name": "umbrella-24px.vue"
+  },
+  {
+    "name": "unlock-24px.vue"
+  },
+  {
+    "name": "upload-24px.vue"
+  },
+  {
+    "name": "user-24px.vue"
+  },
+  {
+    "name": "user-block-24px.vue"
+  },
+  {
+    "name": "user-cancel-24px.vue"
+  },
+  {
+    "name": "user-check-24px.vue"
+  },
+  {
+    "name": "vending-machine-24px.vue"
+  },
+  {
+    "name": "video-24px.vue"
+  },
+  {
+    "name": "vídeo-add-24px.vue"
+  },
+  {
+    "name": "vídeo-off-24px.vue"
+  },
+  {
+    "name": "wait-24px.vue"
+  },
+  {
+    "name": "water-24px.vue"
+  },
+  {
+    "name": "wifi-2-24px.vue"
+  },
+  {
+    "name": "wifi-24px.vue"
+  },
+  {
+    "name": "wind-energy-24px.vue"
+  },
+  {
+    "name": "window-24px.vue"
+  },
+  {
+    "name": "world-24px.vue"
+  },
+  {
+    "name": "x-circle-24px.vue"
+  },
+  {
+    "name": "x-square-24px.vue"
+  }
+]

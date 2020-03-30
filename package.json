@@ -31,13 +31,13 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn build; yarn make:doc"
+      "pre-commit": "yarn build; yarn make:doc; yarn test"
     }
   },
   "devDependencies": {
+    "babel-jest": "^24.8.0",
     "husky": "^4.2.3",
     "jest": "^24.8.0",
-    "jest-transform-stub": "^2.0.0",
-    "babel-jest": "^24.8.0"
+    "jest-transform-stub": "^2.0.0"
   }
 }
