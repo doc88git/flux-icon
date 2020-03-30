@@ -58,7 +58,6 @@ const createComponents = async () => {
 
         fs.writeFile(fileName, content, err => {
           if (err) return console.log(`File ${fileName} error!`);
-          console.log(`File ${fileName} done!`);
         });
       });
     });
@@ -73,7 +72,7 @@ const createComponents = async () => {
 
     fs.writeFile(fileName, JSON.stringify(list, null, 2), err => {
       if (err) return console.log(`File ${fileName} error!`);
-      console.log(`File ${fileName} done!`);
+      console.log(`File _icons.json done!`);
     });
   });
 };
