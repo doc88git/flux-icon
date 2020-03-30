@@ -1,5 +1,0 @@
-<template>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M12,2A11,11,0,1,0,23,13,11,11,0,0,0,12,2Zm0,20a9,9,0,1,1,9-9A9,9,0,0,1,12,22ZM23.71,6.71a1,1,0,0,1-1.42,0l-5-5A1,1,0,0,1,18.71.29l5,5A1,1,0,0,1,23.71,6.71ZM1,7a1,1,0,0,1-.71-.29,1,1,0,0,1,0-1.42l5-5A1,1,0,0,1,6.71,1.71l-5,5A1,1,0,0,1,1,7Zm17,5a1,1,0,0,1,0,2H12a1,1,0,0,1-1-1V7a1,1,0,0,1,2,0v5Z"/></g></g></svg></template>
-<script> 
- export default { name: "alarm" }
-</script>

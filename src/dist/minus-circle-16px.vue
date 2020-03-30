@@ -1,8 +1,0 @@
-<template>
-<svg id="minus-circle-16px" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <path id="Path_69" data-name="Path 69" d="M29,15a8,8,0,1,1,8-8A8.009,8.009,0,0,1,29,15ZM29,0a7,7,0,1,0,7,7A7.008,7.008,0,0,0,29,0Zm5,7a.5.5,0,0,0-.5-.5h-9a.5.5,0,0,0,0,1h9A.5.5,0,0,0,34,7Z" transform="translate(-21 1)"/>
-</svg>
-</template>
-<script> 
- export default { name: "minus-circle" }
-</script>

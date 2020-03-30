@@ -1,8 +1,0 @@
-<template>
-<svg id="minus-square-16px" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <path id="Path_68" data-name="Path 68" d="M-9.5,16h-11A2.5,2.5,0,0,1-23,13.5V2.5A2.5,2.5,0,0,1-20.5,0h11A2.5,2.5,0,0,1-7,2.5v11A2.5,2.5,0,0,1-9.5,16Zm-11-15A1.5,1.5,0,0,0-22,2.5v11A1.5,1.5,0,0,0-20.5,15h11A1.5,1.5,0,0,0-8,13.5V2.5A1.5,1.5,0,0,0-9.5,1ZM-10,8a.5.5,0,0,0-.5-.5h-9A.5.5,0,0,0-20,8a.5.5,0,0,0,.5.5h9A.5.5,0,0,0-10,8Z" transform="translate(23)"/>
-</svg>
-</template>
-<script> 
- export default { name: "minus-square" }
-</script>
