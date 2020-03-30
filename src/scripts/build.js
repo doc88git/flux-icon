@@ -62,6 +62,19 @@ const createComponents = async () => {
         });
       });
     });
+
+    let list = []
+    const fileName = `${distDir}/_icons.json`;
+    icons.forEach(size => {
+      size.forEach(icon => {
+        list.push({name: `${icon.name}-${icon.size}px.vue`})
+      })
+    });
+
+    fs.writeFile(fileName, JSON.stringify(list, null, 2), err => {
+      if (err) return console.log(`File ${fileName} error!`);
+      console.log(`File ${fileName} done!`);
+    });
   });
 };
 
