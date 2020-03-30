@@ -1,6 +1,6 @@
 {
   "name": "@doc88/flux-icon",
-  "version": "v1.3.1",
+  "version": "v1.3.2",
   "description": "Flux Icons",
   "main": "src/index.js",
   "type": "module",
@@ -23,16 +23,21 @@
     "url": "https://github.com/doc88git/flux-icon/issues"
   },
   "scripts": {
-    "test": "echo;",
     "build": "node src/scripts/build.js",
-    "make:doc": "node src/scripts/makeIconsDoc.js"
-  },
-  "devDependencies": {
-    "husky": "^4.2.3"
+    "make:doc": "node src/scripts/makeIconsDoc.js",
+    "test": "jest",
+    "test:snapshot": "jest --updateSnapshot",
+    "test:watch": "jest --watchAll"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run build; npm run make:doc"
+      "pre-commit": "yarn build; yarn make:doc; yarn test"
     }
+  },
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "husky": "^4.2.3",
+    "jest": "^24.8.0",
+    "jest-transform-stub": "^2.0.0"
   }
 }
