@@ -1,0 +1,17 @@
+<template>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 14.1 16.1" style="enable-background:new 0 0 14.1 16.1;" xml:space="preserve">
+<g id="Layer_1-2">
+	<path d="M13.8,3L7.3,0C7.1,0,7,0,6.8,0L0.3,3C0.1,3.1,0,3.3,0,3.6c0,4.6,2.1,8.9,5.8,11.7l1,0.7c0.2,0.2,0.5,0.2,0.7,0l0.9-0.7
+		c3.6-2.8,5.7-7.1,5.7-11.7C14.1,3.3,14,3.1,13.8,3z M7.7,14.4l-0.6,0.5l-0.6-0.5C3.2,11.9,1.2,8,1.1,3.9l5.9-2.7L13,3.9
+		C12.9,8,10.9,11.9,7.7,14.4z M7.1,3c0.3,0,0.6,0.3,0.6,0.6V7h2.9c0.3,0,0.6,0.3,0.6,0.6c0,0.3-0.3,0.6-0.6,0.6H7.6v4.4
+		c0,0.3-0.3,0.6-0.6,0.6c-0.3,0-0.6-0.3-0.6-0.6c0,0,0,0,0,0V8.1H3.6C3.3,8.1,3,7.9,3,7.6S3.3,7,3.6,7c0,0,0,0,0,0h2.9V3.6
+		C6.5,3.3,6.8,3,7.1,3z"/>
+</g>
+</svg>
+</template>
+<script> 
+ export default { name: "firewall" }
+</script>

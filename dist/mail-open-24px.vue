@@ -1,0 +1,8 @@
+<template>
+<svg id="mail-open-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24.025" viewBox="0 0 24 24.025">
+  <path id="mail-open-24px-2" data-name="mail-open-24px" d="M24,9a.909.909,0,0,0-.4-.8l-11-8a.91.91,0,0,0-1.2,0l-11,8A.909.909,0,0,0,0,9H0V21a2.946,2.946,0,0,0,3,3H21a2.946,2.946,0,0,0,3-3V9ZM22,20.6l-4.3-4.3a.99.99,0,0,0-1.4,1.4L20.6,22H3.4l4.3-4.3a.99.99,0,0,0-1.4-1.4L2,20.6V11l9.4,6.8a1.421,1.421,0,0,0,.6.2,1.421,1.421,0,0,0,.6-.2L22,11ZM12,2.2,21.3,9,12,15.8,2.7,9Z" transform="translate(0 0.025)"/>
+</svg>
+</template>
+<script> 
+ export default { name: "mail-open" }
+</script>

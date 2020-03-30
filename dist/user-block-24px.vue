@@ -1,0 +1,5 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M12,12A6,6,0,1,0,6,6,6,6,0,0,0,12,12ZM12,2A4,4,0,1,1,8,6,4,4,0,0,1,12,2Zm6,10a6,6,0,1,0,6,6A6,6,0,0,0,18,12Zm4,6a4,4,0,0,1-.57,2L16,14.57A4,4,0,0,1,22,18Zm-8,0a4,4,0,0,1,.57-2L20,21.43A4,4,0,0,1,14,18Zm-2,5a1,1,0,0,1-1,1H3a3,3,0,0,1-3-3,7,7,0,0,1,7-7h3a1,1,0,0,1,0,2H7a5,5,0,0,0-5,5,1,1,0,0,0,1,1h8A1,1,0,0,1,12,23Z"/></g></g></svg></template>
+<script> 
+ export default { name: "user-block" }
+</script>

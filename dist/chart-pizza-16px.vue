@@ -1,0 +1,8 @@
+<template>
+<svg id="chart-pizza-16px" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Path_185" data-name="Path 185" d="M38.5,8H36.92A7.062,7.062,0,1,0,31,13.92V15.5a.5.5,0,0,0,.5.5A7.508,7.508,0,0,0,39,8.5.5.5,0,0,0,38.5,8ZM32,14.981V9h5.981A6.51,6.51,0,0,1,32,14.981ZM30,13a6.04,6.04,0,1,1,5.91-5H31.5a.5.5,0,0,0-.5.5v4.41A6,6,0,0,1,30,13Z" transform="translate(-23)"/>
+</svg>
+</template>
+<script> 
+ export default { name: "chart-pizza" }
+</script>
