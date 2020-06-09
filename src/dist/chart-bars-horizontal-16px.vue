@@ -1,5 +1,0 @@
-<template>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M15.5,15H12V12.5a.5.5,0,0,0-.5-.5H10V10h3.5a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5H8V3.5A.5.5,0,0,0,7.5,3H1V.5A.5.5,0,0,0,.5,0,.5.5,0,0,0,0,.5v15a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,0-1ZM9,12H1V10H9Zm4-3H1V7H13ZM7,4V6H1V4ZM1,15V13H11v2Z"/></g></g></svg></template>
-<script> 
- export default { name: "chart-bars-horizontal" }
-</script>
