@@ -62,6 +62,11 @@
 <td><img src="./src/assets/24px/apps-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>archive</td>
+<td><img src="./src/assets/16px/archive-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/archive-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>arrow-left</td>
 <td><img src="./src/assets/16px/arrow-left-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/arrow-left-24px.svg" height="24px" width="24px"></td>
@@ -167,9 +172,24 @@
 <td><img src="./src/assets/24px/certified-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>chart-area</td>
+<td><img src="./src/assets/16px/chart-area-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/chart-area-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>chart-bars</td>
 <td><img src="./src/assets/16px/chart-bars-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/chart-bars-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>chart-bars-horizontal</td>
+<td><img src="./src/assets/16px/chart-bars-horizontal-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/chart-bars-horizontal-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>chart-donut</td>
+<td><img src="./src/assets/16px/chart-donut-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/chart-donut-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>chart-grow</td>
@@ -300,6 +320,16 @@
 <td>disconnected</td>
 <td><img src="./src/assets/16px/disconnected-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/disconnected-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>dots</td>
+<td><img src="./src/assets/16px/dots-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/dots-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>dots-2</td>
+<td><img src="./src/assets/16px/dots-2-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/dots-2-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>download</td>
@@ -552,6 +582,11 @@
 <td><img src="./src/assets/24px/id-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>image</td>
+<td><img src="./src/assets/16px/image-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/image-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>invoice</td>
 <td><img src="./src/assets/16px/invoice-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/invoice-24px.svg" height="24px" width="24px"></td>
@@ -675,6 +710,16 @@
 <td>monitoring</td>
 <td><img src="./src/assets/16px/monitoring-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/monitoring-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>move</td>
+<td><img src="./src/assets/16px/move-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/move-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>move-vertical</td>
+<td><img src="./src/assets/16px/move-vertical-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/move-vertical-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>mpls</td>
@@ -802,6 +847,21 @@
 <td><img src="./src/assets/24px/request-sent-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>resize</td>
+<td><img src="./src/assets/16px/resize-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/resize-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>resize-hight</td>
+<td><img src="./src/assets/16px/resize-hight-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/resize-hight-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>resize-width</td>
+<td><img src="./src/assets/16px/resize-width-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/resize-width-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>rocket</td>
 <td><img src="./src/assets/16px/rocket-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/rocket-24px.svg" height="24px" width="24px"></td>
@@ -905,6 +965,16 @@
 <td>thermometer</td>
 <td><img src="./src/assets/16px/thermometer-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/thermometer-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>thumbs-down</td>
+<td><img src="./src/assets/16px/thumbs-down-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/thumbs-down-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>thumbs-up</td>
+<td><img src="./src/assets/16px/thumbs-up-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/thumbs-up-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>thunderbolt</td>
