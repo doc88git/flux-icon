@@ -97,6 +97,11 @@
 <td><img src="./src/assets/24px/badge-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>bar-code</td>
+<td><img src="./src/assets/16px/bar-code-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/bar-code-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>battery-full</td>
 <td><img src="./src/assets/16px/battery-full-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/battery-full-24px.svg" height="24px" width="24px"></td>
@@ -270,6 +275,11 @@
 <td>clalendar-check</td>
 <td><img src="./src/assets/16px/clalendar-check-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/clalendar-check-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>clip</td>
+<td><img src="./src/assets/16px/clip-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/clip-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>cloud</td>
