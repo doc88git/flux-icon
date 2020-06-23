@@ -1,6 +1,6 @@
 {
   "name": "@doc88/flux-icon",
-  "version": "1.4.6-beta.1",
+  "version": "1.4.6",
   "description": "Flux Icons",
   "main": "dist/index.js",
   "type": "module",
