@@ -20,6 +20,8 @@ jobs:
       # - run: yarn test
       - run: yarn build
       - run: yarn make:doc
+      - run: git config --global user.email "clezer@bot.com"
+      - run: git config --global user.name "Bot Clezer"
       - run: git commit -am "Build package and make docs"
 
   publish-npm:
