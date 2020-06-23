@@ -24,8 +24,8 @@
     "url": "https://github.com/doc88git/flux-icon/issues"
   },
   "scripts": {
-    "build": "node src/scripts/build.js",
-    "make:doc": "node src/scripts/makeIconsDoc.js",
+    "build": "babel-node src/scripts/build.js",
+    "make:doc": "babel-node src/scripts/makeIconsDoc.js",
     "test": "jest",
     "test:snapshot": "jest --updateSnapshot",
     "test:watch": "jest --watchAll"
@@ -36,9 +36,11 @@
     }
   },
   "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/node": "^7.10.3",
+    "babel-jest": "^24.8.0",
     "husky": "^4.2.3",
     "jest": "^24.8.0",
-    "jest-transform-stub": "^2.0.0",
-    "babel-jest": "^24.8.0"
+    "jest-transform-stub": "^2.0.0"
   }
 }
