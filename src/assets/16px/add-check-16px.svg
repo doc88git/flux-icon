@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="add-check-16px" transform="translate(0.5 0.5)">
+    <path id="Subtração_8" data-name="Subtração 8" d="M8,16H8a8,8,0,1,1,8-8l-.616-.184L15,7.994A7,7,0,1,0,8,15v1ZM6.5,12a.5.5,0,0,1-.354-.146l-3-3a.5.5,0,0,1,0-.708.5.5,0,0,1,.707,0L6.5,10.793l5.647-5.647a.5.5,0,0,1,.707,0,.5.5,0,0,1,0,.707l-6,6A.5.5,0,0,1,6.5,12Z" transform="translate(0 0)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Caminho_179" data-name="Caminho 179" d="M38,12.5a.5.5,0,0,1-.5.5H35v2.5a.5.5,0,0,1-1,0V13H31.5a.5.5,0,0,1,0-1H34V9.5a.5.5,0,0,1,1,0V12h2.5A.5.5,0,0,1,38,12.5Z" transform="translate(-22 0)"/>
+    <path id="Caminho_275" data-name="Caminho 275" d="M976.153,357.487h-.005" transform="translate(372.987 -968.148) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <path id="Caminho_276" data-name="Caminho 276" d="M976.153,357.487h-.005" transform="translate(365.487 -960.648) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
