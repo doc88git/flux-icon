@@ -25,6 +25,7 @@
   },
   "scripts": {
     "build": "node --experimental-modules src/scripts/build.js",
+    "postbuild":"yarn make:doc",
     "make:doc": "node --experimental-modules src/scripts/makeIconsDoc.js",
     "test": "jest",
     "test:snapshot": "jest --updateSnapshot",

@@ -12,9 +12,39 @@
 <td><img src="./src/assets/24px/X-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>add-book</td>
+<td><img src="./src/assets/16px/add-book-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-book-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>add-card</td>
+<td><img src="./src/assets/16px/add-card-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-card-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>add-check</td>
+<td><img src="./src/assets/16px/add-check-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-check-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>add-company</td>
+<td><img src="./src/assets/16px/add-company-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-company-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>add-group</td>
+<td><img src="./src/assets/16px/add-group-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-group-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>add-user</td>
 <td><img src="./src/assets/16px/add-user-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/add-user-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>add-word</td>
+<td><img src="./src/assets/16px/add-word-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/add-word-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>adjustments</td>
