@@ -3,7 +3,25 @@
     "name": "X-16px.vue"
   },
   {
+    "name": "add-book-16px.vue"
+  },
+  {
+    "name": "add-card-16px.vue"
+  },
+  {
+    "name": "add-check-16px.vue"
+  },
+  {
+    "name": "add-company-16px.vue"
+  },
+  {
+    "name": "add-group-16px.vue"
+  },
+  {
     "name": "add-user-16px.vue"
+  },
+  {
+    "name": "add-word-16px.vue"
   },
   {
     "name": "adjustments-16px.vue"

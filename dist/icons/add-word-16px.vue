@@ -1,0 +1,14 @@
+<template>
+<svg id="add-word-16px" xmlns="http://www.w3.org/2000/svg" width="16.003" height="16" viewBox="0 0 16.003 16">
+  <g id="add-user-16px" transform="translate(9 9)">
+    <path id="Caminho_179" data-name="Caminho 179" d="M38,12.5a.5.5,0,0,1-.5.5H35v2.5a.5.5,0,0,1-1,0V13H31.5a.5.5,0,0,1,0-1H34V9.5a.5.5,0,0,1,1,0V12h2.5A.5.5,0,0,1,38,12.5Z" transform="translate(-31 -9)"/>
+  </g>
+  <path id="Subtração_5" data-name="Subtração 5" d="M8,16H8A7.994,7.994,0,0,1,5.316.473.368.368,0,0,1,5.391.444L5.416.436A7.983,7.983,0,0,1,16,8H15a6.894,6.894,0,0,0-.66-2.945l-2.962.74A.5.5,0,0,0,11,6.281v.6A.509.509,0,0,0,11.014,7H10c0-.039,0-.079,0-.118v-.6a1.5,1.5,0,0,1,1.137-1.455l2.7-.676A6.979,6.979,0,0,0,6.63,1.137l.823.678A1.493,1.493,0,0,1,8,2.972V5.5a.5.5,0,0,1-.309.462A.481.481,0,0,1,7.5,6a.507.507,0,0,1-.355-.147l-.562-.562a.508.508,0,0,0-.355-.147.488.488,0,0,0-.157.026l-1.731.576A.5.5,0,0,0,4,6.221v.5a.5.5,0,0,0,.38.486l1.865.465a1.5,1.5,0,0,1,.885,2.287L6.084,11.525A.5.5,0,0,0,6,11.8v2.7a.5.5,0,0,1-.04.2A6.977,6.977,0,0,0,8,15v1ZM5.473,1.48A6.987,6.987,0,0,0,5,14.315V11.8a1.486,1.486,0,0,1,.252-.832L6.3,9.4A.5.5,0,0,0,6,8.641L4.137,8.174A1.5,1.5,0,0,1,3,6.719v-.5A1.5,1.5,0,0,1,4.025,4.8l1.732-.577a1.476,1.476,0,0,1,.476-.079A1.491,1.491,0,0,1,7,4.356V2.972a.5.5,0,0,0-.184-.386Z"/>
+  <path id="Caminho_263" data-name="Caminho 263" d="M976.148,357.487h0" transform="translate(-968.151 -341.987)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  <path id="Caminho_264" data-name="Caminho 264" d="M976.148,357.487h0" transform="translate(-960.648 -349.487)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  <path id="Caminho_265" data-name="Caminho 265" d="M976.148,357.487h0" transform="translate(-965.648 -350.487)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+</svg>
+</template>
+<script> 
+ export default { name: "add-word" }
+</script>

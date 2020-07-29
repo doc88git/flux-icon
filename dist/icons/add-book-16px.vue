@@ -1,0 +1,11 @@
+<template>
+<svg id="add-book-16px" xmlns="http://www.w3.org/2000/svg" width="15.003" height="16" viewBox="0 0 15.003 16">
+  <path id="Subtração_6" data-name="Subtração 6" d="M7,16H1.5a.5.5,0,0,1-.5-.5V15H.5a.5.5,0,1,1,0-1H1V11H.5a.5.5,0,1,1,0-1H1V7H.5a.5.5,0,1,1,0-1H1V3.045H.5a.5.5,0,1,1,0-1H1V.5A.5.5,0,0,1,1.5,0h10A3.5,3.5,0,0,1,15,3.5V8H14V3.5A2.5,2.5,0,0,0,11.5,1H2V2.045h.545a.5.5,0,0,1,0,1H2V6h.5a.5.5,0,0,1,0,1H2v3h.5a.5.5,0,0,1,0,1H2v3h.5a.5.5,0,0,1,0,1H7v1Z"/>
+  <path id="Caminho_266" data-name="Caminho 266" d="M976.148,357.487h0" transform="translate(-961.648 -349.487)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  <path id="Caminho_267" data-name="Caminho 267" d="M976.148,357.487h0" transform="translate(-969.148 -341.987)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  <path id="Caminho_179" data-name="Caminho 179" d="M38,12.5a.5.5,0,0,1-.5.5H35v2.5a.5.5,0,0,1-1,0V13H31.5a.5.5,0,0,1,0-1H34V9.5a.5.5,0,0,1,1,0V12h2.5A.5.5,0,0,1,38,12.5Z" transform="translate(-23)"/>
+</svg>
+</template>
+<script> 
+ export default { name: "add-book" }
+</script>
