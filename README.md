@@ -332,6 +332,16 @@
 <td><img src="./src/assets/24px/company-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
+<td>company-small</td>
+<td><img src="./src/assets/16px/company-small-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/company-small-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>company-small-24px.svg</td>
+<td><img src="./src/assets/16px/company-small-24px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/company-small-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
 <td>compass</td>
 <td><img src="./src/assets/16px/compass-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/compass-24px.svg" height="24px" width="24px"></td>
@@ -355,6 +365,16 @@
 <td>data</td>
 <td><img src="./src/assets/16px/data-16px.svg" height="16px" width="16px"></td>
 <td><img src="./src/assets/24px/data-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>device</td>
+<td><img src="./src/assets/16px/device-16px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/device-24px.svg" height="24px" width="24px"></td>
+</tr>
+<tr>
+<td>device-24px.svg</td>
+<td><img src="./src/assets/16px/device-24px.svg" height="16px" width="16px"></td>
+<td><img src="./src/assets/24px/device-24px.svg" height="24px" width="24px"></td>
 </tr>
 <tr>
 <td>disconnected</td>

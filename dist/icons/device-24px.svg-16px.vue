@@ -1,0 +1,11 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" width="24.998" height="25.002" viewBox="0 0 24.998 25.002">
+  <g id="device-24px" transform="translate(0.498 0.5)">
+    <rect id="Retângulo_223" data-name="Retângulo 223" width="24" height="24" fill="none" opacity="0"/>
+    <path id="Icone" d="M19123,16743v-3h-2v3a1,1,0,1,1-2,0v-3h-2v3a1,1,0,1,1-2,0v-3h-2a1,1,0,0,1-1-1v-2h-3a1,1,0,0,1,0-2h3v-2h-3a1,1,0,0,1,0-2h3v-2h-3a1,1,0,0,1,0-2h3v-2a1,1,0,0,1,1-1h2v-3a1,1,0,0,1,2,0v3h2v-3a1,1,0,0,1,2,0v3h2v-3a1,1,0,0,1,2,0v3h2a1,1,0,0,1,1,1v2h3a1,1,0,1,1,0,2h-3v2h3a1,1,0,1,1,0,2h-3v2h3a1,1,0,1,1,0,2h-3v2a1,1,0,0,1-1,1h-2v3a1,1,0,1,1-2,0Zm-9-5h12v-12h-12Zm3-2a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h6a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1Zm1-2h4v-4h-4Z" transform="translate(-19108 -16720)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
+</template>
+<script> 
+ export default { name: "device-24px.svg" }
+</script>
